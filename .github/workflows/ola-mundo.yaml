@@ -1,6 +1,6 @@
 name: Ola, Mundo!
 
-on:[push]
+on: [push]
 
 jobs:
   ola_mundo_jobs:
